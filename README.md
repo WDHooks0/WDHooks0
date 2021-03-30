@@ -1,15 +1,5 @@
-Hey there! 
+Hey there! My name is Bill and I am an aspiring UX Designer.
 
-<!--
-**WDHooks0/WDHooks0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on creating a portfolio
-- 🌱 I’m currently learning UX Design
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: strengthening my portfolio
+- 🌱 I’m currently learning: UX and Web Design, JavaScript
+- ⚡ Fun fact: I am a classically trained violinist. I can play several instruments (I love to play the drums but I don't dare call myself a drummer) and lately I have dedicated most of my time toward playing the guitar (more specifically, the blues on my Fender Stratocaster).
